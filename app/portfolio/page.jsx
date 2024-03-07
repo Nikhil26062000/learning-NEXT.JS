@@ -7,3 +7,10 @@ const Portfolio = () => {
 }
 
 export default Portfolio
+
+export const generateMetadata =()=>{
+  return{
+    title: 'Portfolio',
+    description:'All about the portfolio'
+  }
+}
