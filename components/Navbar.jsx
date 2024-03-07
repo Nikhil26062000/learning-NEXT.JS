@@ -14,6 +14,7 @@ const Navbar = () => {
             <Link href="/about"><li>About</li></Link>
             <Link href="/portfolio"><li>Portfolio</li></Link>
             <Link href="/about/user"><li>User</li></Link>
+            <Link href="/dummydata"><li>DummyData</li></Link>
         </ul>
 
         {pathName=="/about"?(
