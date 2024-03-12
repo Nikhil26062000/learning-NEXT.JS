@@ -6,6 +6,7 @@ const roboto = Roboto({subsets:["latin"],weight:"500"})
 import React from 'react'
 
 const About = () => {
+  console.log(process.env.JWT_SECRET)
   return (
     <div>
       <h1>This is about page</h1>
