@@ -26,5 +26,12 @@ export const data = [
     "email": "ayu@gamil.com",
     "password": "125",
     "age": "18"
+  },
+  {
+    "id": "10",
+    "name": "Raj",
+    "email": "Raj@gamil.com",
+    "password": "125",
+    "age": "18"
   }
 ]
